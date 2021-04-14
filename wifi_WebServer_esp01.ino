@@ -9,7 +9,7 @@
 DHT dht(DHTPIN, DHTTYPE);
 
 // Definir el pin del sensor IR
-byte sensorpir = 7;
+byte sensorpir = 10;
 
 #include "WiFiEsp.h"
 

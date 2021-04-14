@@ -92,7 +92,7 @@ location.reload(true);
  <h3></h3>
  <h3>Humedad: <span id="humedadVal"></span> </h3>
  <h3></h3>
- <h3>Proximidad: <span id="proximidadVal"></span> </h3>
+ <h5>Proximidad: <span id="proximidadVal"></span> </h5>
  <h3></h3>
  </div>
  </div>
